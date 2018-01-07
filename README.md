@@ -1,6 +1,7 @@
 # 102cipher
 Epitech first year project : [CPE] 102cipher
-Second mathematic mudole project of the first year
+
+Second mathematic module project of the first year
 
 Deadline : 2 weeks
 
